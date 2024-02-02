@@ -1,0 +1,2 @@
+D&D File Creator
+Hydro;Fighter;1;[10, 10, 10, 10, 10, 10]
